@@ -41,14 +41,14 @@ We do not sell your data. Third-party services:
 All data is transmitted via HTTPS/TLS encryption. No card data stored.
 
 ## 6. Data Retention
-Data is kept while your account is active. To delete: support@qadam.uz
+Data is kept while your account is active. To delete: zerouprbx@gmail.com
 
 ## 7. Children's Privacy
-Minimum age: 10 years. Parents may request data deletion via support@qadam.uz
+Minimum age: 10 years. Parents may request data deletion via zerouprbx@gmail.com
 
 ## 8. Your Rights
 - Access, correct, or delete your data
-- Contact: support@qadam.uz
+- Contact: zerouprbx@gmail.com
 
 ## 9. Advertising
 Google AdMob may use device identifiers for personalized ads.
