@@ -55,4 +55,4 @@ Google AdMob may use device identifiers for personalized ads.
 See: https://policies.google.com/privacy
 
 ## 10. Contact
-Email: support@qadam.uz
+Email: zerouprbx@gmail.com
